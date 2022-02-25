@@ -1,13 +1,13 @@
 {
-  "name": "vmlyr-drupal/kit-drush-commands",
-  "description": "Drush Commands for VMLYR Drupal KIT",
+  "name": "vmlyr-ab-drupal/kit-drush-commands",
+  "description": "Drush Commands for VMLYR Drupal KIT for the ArcBest Project",
   "license": "GPL-2.0+",
   "type": "drupal-drush",
-  "homepage": "https://github.com/VML/Drupal-KIT-Drush-Commands",
+  "homepage": "https://github.com/MichaelAKuykendall/Drupal-KIT-Drush-Commands",
   "authors": [
     {
-      "name": "Garrett Rathbone",
-      "email": "garrett.rathbone@vml.com"
+      "name": "Mike Kuykendall",
+      "email": "mike.kuykendall@vmlyr.com"
     }
   ],
   "autoload": {
